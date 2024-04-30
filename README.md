@@ -3,7 +3,7 @@
 I am a computer engineer with experience in cloud technologies and the financial industry.
 I grew up in Lebanon and graduated from the American University of Beirut in 2012.
 
-I live in London with my fiancée and our cat. I like music, code, and weight-lifting.
+I live in London with my fiancée and our two cats. I like music, code, and weight-lifting.
 
 ## Where I've worked:
 
